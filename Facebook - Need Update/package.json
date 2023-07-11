@@ -1,0 +1,14 @@
+{
+    "name": "facebook-chat-bot",
+    "version": "1.0.0",
+    "description": "A Facebook chat bot built with Node.js",
+    "main": "facebook_chatbot.js",
+    "dependencies": {
+        "facebook-chat-api": "github:Schmavery/facebook-chat-api"
+    },
+    "scripts": {
+        "start": "node facebook_chatbot.js"
+    },
+    "author": "Chatbot_project",
+    "license": "MIT"
+}

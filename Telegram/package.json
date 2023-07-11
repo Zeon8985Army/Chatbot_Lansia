@@ -1,0 +1,11 @@
+{
+    "name": "my-telegram-bot",
+    "version": "1.0.0",
+    "description": "A Telegram bot built with Node.js",
+    "main": "index.js",
+    "dependencies": {
+      "node-telegram-bot-api": "^0.53.0"
+    },
+    "author": "chatbot_project",
+    "license": "MIT"
+  }

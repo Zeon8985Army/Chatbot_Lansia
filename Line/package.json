@@ -1,0 +1,13 @@
+{
+  "name": "line-bot",
+  "version": "1.0.0",
+  "description": "A Line bot",
+  "main": "line_chatbot.js",
+  "scripts": {
+    "start": "node line_chatbot.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^7.4.1",
+    "express": "^4.17.2"
+  }
+}
